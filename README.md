@@ -76,3 +76,6 @@ return 0;
 
 ## OUTPUT :-
 ![image](https://github.com/user-attachments/assets/60e1d92f-7012-433a-9dc7-e763e1a98fdd)
+
+## RESULT:
+The program is executed successfull
